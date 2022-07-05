@@ -3,5 +3,6 @@ public class ogrenci {
         System.out.println("merhaba dünya 2");
         System.out.println("merhaba dünya 3");
         System.out.println("merhaba dünya 4");
+        System.out.println("merhaba dünya 5");
     }
 }
